@@ -11,7 +11,6 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=isaqueeln11&theme=react)](https://github.com/isaqueeln11/github-readme-activity-graph)
 
 
 ## Estou aprendendo:
